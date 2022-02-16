@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Toya0754
 - 👀 I’m interested in ... Programming/Code also History.
 - 🌱 I’m currently learning ... Java CSS and how to be a better mom and person every day.
-- 💞️ I’m looking to collaborate on ... Not sure yet but trying to chellenge myself.
+- 💞️ I’m looking to collaborate on ... Not sure yet but trying to challenge myself.
 - 📫 How to reach me ... alvarado.toytoy@gmail.com
 
 <!---
